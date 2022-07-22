@@ -7,7 +7,7 @@ Driving as an activity is tiresome after a few hours of driving and especially w
 
 **Solution Implemented:** 
 This project is a small initiative to apply Artificial Intelligence as a boon to save lives and promote safe driving practices. 
-It focuses on making use of Machine Learning in identifying whether a driver is about to sleep with the “blinking eyes actions” and switching on an alarm system to make the driver alert of his sleepiness. This would help the driver in a sudden waking up action. Furthermore, the driver could take a wise and rational decision to stop and rest and prevent the destruction of life and property.
+It focuses on making use of Machine Learning in identifying whether a driver is about to sleep with the “blinking eyes actions” and switching on an alarm system to make the driver alert of his sleepiness. This would help the driver in a sudden waking up action. Furthermore, the driver could take a wise and rational decision to stop and rest and prevent the destruction of life and property. To reduce the risk of accidents, an alarm is set for the driver in Automobiles, whenever he/she is about to sleep for a specified minimum amount of time. Data preprocessing was performed based on the annotation of the images. TensorFlow, CNN, Deep Learning, ImageNet have been used to detect driver drowsiness. The Pygame module is also used to set an alarm sound for the driver.
 
 **Accuracy Score:**
 Test Data : 95.185%
